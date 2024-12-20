@@ -19,10 +19,9 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- First model without augmentation and with class imbalance train accuracy is around 0.90 but validation accuracy is 0.4832. The model is overfit.
+- Scond model after handling augmentation but with class imbalance looks to be underfit [Train Accuracy: 0.6027, Validation Accuracy: 0.5503].
+- Third model after handling augmentation and class imbalance. The model improves the prformance[Train Accuracy: 0.8444, Validation Accuracy: 0.7468].
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -37,9 +36,7 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- UpGrad.
 
 
 ## Contact
